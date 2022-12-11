@@ -35,3 +35,6 @@ https://leeters.netlify.app/what-you-need-to-know-about-minitalk/
 https://www.youtube.com/watch?v=L3XuR-iRysU
 https://askcodez.com/gestion-du-signal-et-sigemptyset.html
 
+# Books
+C en action. -Yves Mettier
+Développement système sous Linux: Ordonnancement multi-tâche, gestion mémoire, communications, programmation réseau. - Christophe Blaess
